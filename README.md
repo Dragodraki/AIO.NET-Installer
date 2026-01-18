@@ -69,23 +69,23 @@ USAGE
 Just open the EXE installer, optionally customize chosen .NET versions, hit "Next" and then "Install".<br/>
 Depending on your OS and selections the install process will take from a few secconds to about 5 minutes.
 
-If you want it to install unanttended with not even the wizard to be shown, call it with parameter "/VERYSILENT" and with these "/TASKS=":
-repair - Fix general issues with NetFxRepairTool (Windows XP+) 
-net1_0 - Install .NET Framework 1.0 SP3 (known security issues; Windows 2000+)
-net1_1 - Install .NET Framework 1.1 SP1 (known security issues; Windows 2000+)
-net2_0 - Install .NET Framework 2.0 SP2 (Windows 2000/XP/Srv2003)
-net3_5 - Install .NET Framework 3.5 (includes .NET 2.0+3.0; Windows XP+)
-net4_0 - Install .NET Framework 4.0.3 (Windows XP)
-net4_6 - Install .NET Framework 4.6 (Windows Vista/Srv2008R1)
-net4_8 - Install .NET Framework 4.8 (Windows 7/Srv2008R2/8/Srv2012)
-net4_8_1 - Install .NET Framework 4.8.1 (Windows 10 20H2+)
-netc3_1 - Install .NET Core 3.1 (Windows 7+)
-net5 - Install .NET Desktop Runtime 5.0.17 (Windows 7+)
-net6 - Install .NET Desktop Runtime 6.0.36 (Windows 7+)
-net7 - Install .NET Desktop Runtime 7.0.20 (Windows 7+)
-net8 - Install .NET Desktop Runtime 8.0.22 (Windows 7+)
-net9 - Install .NET Desktop Runtime 9.0.11 (Windows 7+)
-net10 - Install .NET Desktop Runtime 10.0.1 (Windows 7+)
+If you want it to install unanttended with not even the wizard to be shown, call it with parameter "/VERYSILENT" and with these "/TASKS=":<br/>
+repair - Fix general issues with NetFxRepairTool (Windows XP+) <br/>
+net1_0 - Install .NET Framework 1.0 SP3 (known security issues; Windows 2000+) <br/>
+net1_1 - Install .NET Framework 1.1 SP1 (known security issues; Windows 2000+) <br/>
+net2_0 - Install .NET Framework 2.0 SP2 (Windows 2000/XP/Srv2003) <br/>
+net3_5 - Install .NET Framework 3.5 (includes .NET 2.0+3.0; Windows XP+) <br/>
+net4_0 - Install .NET Framework 4.0.3 (Windows XP) <br/>
+net4_6 - Install .NET Framework 4.6 (Windows Vista/Srv2008R1) <br/>
+net4_8 - Install .NET Framework 4.8 (Windows 7/Srv2008R2/8/Srv2012) <br/>
+net4_8_1 - Install .NET Framework 4.8.1 (Windows 10 20H2+) <br/>
+netc3_1 - Install .NET Core 3.1 (Windows 7+) <br/>
+net5 - Install .NET Desktop Runtime 5.0.17 (Windows 7+) <br/>
+net6 - Install .NET Desktop Runtime 6.0.36 (Windows 7+) <br/>
+net7 - Install .NET Desktop Runtime 7.0.20 (Windows 7+) <br/>
+net8 - Install .NET Desktop Runtime 8.0.22 (Windows 7+) <br/>
+net9 - Install .NET Desktop Runtime 9.0.11 (Windows 7+) <br/>
+net10 - Install .NET Desktop Runtime 10.0.1 (Windows 7+) <br/>
 <br/>
 If the site will be down far in the future, search the url with archive.org :)
 <br/>
