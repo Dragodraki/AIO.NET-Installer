@@ -4,7 +4,7 @@ Installs/Repairs every relevant .NET application (Framework + Modern) from Windo
 (Release Date: 18.01.2026, Publisher: Dragodraki alias Dreamland, Notice: no fork)
 <br/>
 
-[<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/AIO.NET-Installer/releases/latest/download/AIO.NETOfflineSetup.exe)
+[<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/AIO.NET-Installer/releases/latest/download/AIO.NET.Offline.Setup.exe )
 <br/>
 <br/>
 
