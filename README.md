@@ -26,22 +26,22 @@ Here is a sample how it looks on  my german Windows 10 64-Bit:
 WINDOWS SUPPORT
 -------------------------------
 This setup was build to support all Windows OS beginning with Windows 2000.
-The OS I actually tested the software are labeled with "verified" at the end:
+The OS I actually tested the software are labeled with "---verified" at the end:
 
-- Windows 2000 (verified)
-- Windows XP (verified)
+- Windows 2000 (---verified)
+- Windows XP (---verified)
 - Windows Server 2003
 - Windows Vista
 - Windows Server 2008 R1
-- Windows 7 (verified)
+- Windows 7 (---verified)
 - Windows Server 2008 R2
 - Windows 8/8.1
 - Windows Server 2012 R1
 - Windows Server 2012 R2
-- Windows 10 (verified)
+- Windows 10 (---verified)
 - Windows Server 2016
 - Windows Server 2019
-- Windows 11 (verified)
+- Windows 11 (---verified)
 - Windows Server 2022
 - Windows Server 2025
 - ... probably next future Windows OS too
