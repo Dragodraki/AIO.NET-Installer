@@ -1,5 +1,5 @@
 # AIO.NET-Installer
-Installs/Repairs every (relevant) .NET application from Windows 2000 onwards.
+Installs/Repairs every (relevant) .NET application (Framework + Modern) from Windows 2000 onwards.
 <br/>
 (Release Date: 18.01.2026, Publisher: Dragodraki alias Dreamland, Notice: no fork)
 <br/>
