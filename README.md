@@ -21,6 +21,7 @@ Here is a sample how it looks on  my german Windows 10 64-Bit:
 <br/>
 <img width="375" height="282" alt="AIO NET" src="https://github.com/user-attachments/assets/10e745fe-a5f5-402e-ae56-60ec12b08fa4" />
 
+<br/>
 
 -------------------------------
 WINDOWS SUPPORT
@@ -46,7 +47,6 @@ The OS I actually tested the software are labeled with "---verified" at the end:
 - Windows Server 2025
 - ... probably next future Windows OS too
 <br>
-<br>
 
 
 -------------------------------
@@ -61,7 +61,7 @@ Limitations:
 - Use the app at your own risk!
 - Don't sell it as product as .NET is originally developed by Microsoft!
 - Don't abuse it for malicious purposes!
-
+<br/>
 
 -------------------------------
 USAGE
