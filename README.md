@@ -69,7 +69,8 @@ USAGE
 Just open the EXE installer, optionally customize chosen .NET versions, hit "Next" and then "Install".<br/>
 Depending on your OS and selections the install process will take from a few secconds to about 5 minutes.
 
-If you want it to install unanttended with not even the wizard to be shown, call it with parameter "/VERYSILENT" and with these "/TASKS=":<br/>
+If you want it to install unanttended with not even the wizard to be shown, call it with parameter "/VERYSILENT" and with these "/TASKS=":
+
 repair - Fix general issues with NetFxRepairTool (Windows XP+) <br/>
 net1_0 - Install .NET Framework 1.0 SP3 (known security issues; Windows 2000+) <br/>
 net1_1 - Install .NET Framework 1.1 SP1 (known security issues; Windows 2000+) <br/>
