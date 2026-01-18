@@ -66,7 +66,7 @@ Limitations:
 -------------------------------
 USAGE
 -------------------------------
-Just open the EXE installer, optionally customize chosen .NET versions, hit "Next" and then "Install".
+Just open the EXE installer, optionally customize chosen .NET versions, hit "Next" and then "Install".<br/>
 Depending on your OS and selections the install process will take from a few secconds to about 5 minutes.
 <br/>
 If you want it to install unanttended with not even the wizard to be shown, call it with parameter "/VERYSILENT" and with these "/TASKS=":
