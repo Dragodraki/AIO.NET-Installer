@@ -7,6 +7,7 @@ Installs/Repairs every relevant .NET application (Framework + Modern) from Windo
 [<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/AIO.NET-Installer/releases/latest/download/AIO.NETOfflineSetup.exe)
 <br/>
 
+
 -------------------------------
 HOW IT WORKS TECHNICALLY
 -------------------------------
