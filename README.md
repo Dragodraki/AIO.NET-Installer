@@ -18,7 +18,7 @@ One more thing: .NET Framework 1.0 and 1.1 are not only out of date but also suf
 
 To sum up: In theory, you can just blindly hit "Next" and then "Install" button in setup, without fiddling with the correct .NET version.
 
-Here is a sample how it looks on  my german Windows 10 64-Bit:
+Here is a sample of how the wizard's auto-selection on my german Windows 10 64-Bit:
 <br/>
 <img width="375" height="282" alt="AIO NET" src="https://github.com/user-attachments/assets/10e745fe-a5f5-402e-ae56-60ec12b08fa4" />
 
